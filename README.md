@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello! I'm Anderson Ramos
 
-<!--
-**andersonramos-dev/andersonramos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Back-End developer in training, focused on **Java** and **Object-Oriented Programming (OOP)**.  
+Currently exploring the **Spring Boot** ecosystem, building **RESTful APIs**, and applying best practices to develop scalable solutions.  
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Java & OOP  
+- Spring Boot  
+- RESTful APIs  
+- SQL Databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+Grow as a back-end developer and collaborate on projects that positively impact people and businesses.  
+
+## 📫 Contact
+- Email: [andersonoliveira2515@gmail.com](andersonoliveira2515@gmai.com)
+
