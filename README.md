@@ -19,7 +19,7 @@ Troubleshooting, performance optimization, and access control
 
 🎯 Goal
 
-Grow profissionaly Network and Cybersecurity Specialist, contributing to environments that require high performance, reliability, and strong data protection.
+Be a profissionaly Network and Cybersecurity Specialist, contributing to environments that require high performance, reliability, and strong data protection.
 
 ## 📫 Contact
 - Email: [andersonoliveira2515@gmail.com](andersonoliveira2515@gmai.com)
